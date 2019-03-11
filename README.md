@@ -13,12 +13,21 @@ PPT: http://zhanfuyang.com/thesis-ppt.pdf
 
 ## some parameters
 In option.py
+
 `--batch_size ` The batch size
+
 `--save_epoch_freq`  How many epoch to save the parameters of the model
+
 `--which_model_netG resnet_6blocks` 
+
 `--dataroot` The directory of the datasets
+
 `--name` The name of the model 
+
 `--model` Use which model to train the datasets, default is the cycle_gan 
+
 `--no_dropout` 
+
 `--batchSize` Batch Sizes 
+
 `--display_id` Which DEVICE of the GPU to use
