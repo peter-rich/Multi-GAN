@@ -18,7 +18,7 @@ In option.py
 
 `--save_epoch_freq`  How many epoch to save the parameters of the model
 
-`--which_model_netG resnet_6blocks` 
+`--which_model_netG ` Use which model for the Generation, Default is `resnet_6blocks`
 
 `--dataroot` The directory of the datasets
 
