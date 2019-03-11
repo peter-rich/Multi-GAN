@@ -3,7 +3,10 @@
 
 This is the codes from my graduation thesis(SUN Yat-Sen University), also parts of the codes of the paper I submitted to the ICML 2019.
 
-Paper: http://zhanfuyang.com/Asymetric-Cycle-Gan.pdf
+Submitted papers:
+
+Graduation Paper: http://zhanfuyang.com/Asymetric-Cycle-Gan.pdf
+
 PPT: http://zhanfuyang.com/thesis-ppt.pdf
 
 ## Train
